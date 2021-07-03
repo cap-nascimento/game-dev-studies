@@ -1,0 +1,17 @@
+# Unnecessary Folders
+ExternalAssets/
+obj/
+Logs/
+
+#IDE
+.vscode/
+
+# Unnecessary Assets (Only local needed)
+*.meta
+*.png
+*.psd
+
+# Heavy Settings
+Temp/
+ProjectSettings/
+Library/
